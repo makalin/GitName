@@ -14,8 +14,8 @@ GitName is a Python utility that generates GitHub-style repository names from se
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gitname.git
-cd gitname
+git clone https://github.com/makalin/GitName.git
+cd GitName
 ```
 
 2. Ensure you have Python 3.6+ installed.
